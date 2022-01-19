@@ -1,0 +1,16 @@
+.container-fluid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+.box {
+  background-color: #f3e8e8;
+  width: 900px;
+  height: 435px;
+  /* padding: 100px; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
